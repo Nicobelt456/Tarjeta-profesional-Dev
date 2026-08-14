@@ -304,6 +304,320 @@
         "fontSize": 16
       },
       "order": 1.3704491725920769
+    },
+    "aeb4cee7-560a-423c-b48d-e6073c31c5f4": {
+      "id": "aeb4cee7-560a-423c-b48d-e6073c31c5f4",
+      "position": [
+        0.5469238662097615,
+        3.913156500707342,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      "name": "Linkedin",
+      "order": 9.557203784048978
+    },
+    "d8b3e4b3-23ef-4612-ad70-480424d3819f": {
+      "id": "d8b3e4b3-23ef-4612-ad70-480424d3819f",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "aeb4cee7-560a-423c-b48d-e6073c31c5f4",
+      "components": {},
+      "name": "Icono",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "url",
+          "url": "https://cdn.8thwall.com/web/assets/sprites/8w-icon-m8j35d7y.png"
+        },
+        "backgroundOpacity": 1
+      },
+      "order": 0.28546921182200824
+    },
+    "94e91da1-8446-4160-858a-d2a84db5eaf1": {
+      "id": "94e91da1-8446-4160-858a-d2a84db5eaf1",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "aeb4cee7-560a-423c-b48d-e6073c31c5f4",
+      "components": {},
+      "name": "Texto",
+      "ui": {
+        "width": 50,
+        "height": 14,
+        "text": "Linkedin",
+        "color": "#ffffff",
+        "fontSize": 10
+      },
+      "order": 1.3530378888143688
+    },
+    "1a93ceb6-8274-40fa-b340-d3eed110a9cd": {
+      "id": "1a93ceb6-8274-40fa-b340-d3eed110a9cd",
+      "position": [
+        1.6843617094231425,
+        3.9278436995968686,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      "name": "Gmail",
+      "order": 10.885121152953285
+    },
+    "6b8fe5d4-6e7e-49cb-b3b4-7483f50efb14": {
+      "id": "6b8fe5d4-6e7e-49cb-b3b4-7483f50efb14",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "1a93ceb6-8274-40fa-b340-d3eed110a9cd",
+      "components": {},
+      "name": "Icono",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "url",
+          "url": "https://cdn.8thwall.com/web/assets/sprites/8w-icon-m8j35d7y.png"
+        },
+        "backgroundOpacity": 1
+      },
+      "order": 0.47777690439982845
+    },
+    "65a0ac2e-36a0-4877-8abd-d8590f0a3b52": {
+      "id": "65a0ac2e-36a0-4877-8abd-d8590f0a3b52",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "1a93ceb6-8274-40fa-b340-d3eed110a9cd",
+      "components": {},
+      "name": "Texto",
+      "ui": {
+        "width": 50,
+        "height": 14,
+        "text": "Gmail",
+        "color": "#ffffff",
+        "fontSize": 10
+      },
+      "order": 1.4471492759306106
+    },
+    "870443a1-c39f-42db-a403-2a45dbdf90a5": {
+      "id": "870443a1-c39f-42db-a403-2a45dbdf90a5",
+      "position": [
+        -0.6230685964124925,
+        3.913156500707342,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {},
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#ad50ff",
+        "borderRadius": 18,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "flexWrap": "nowrap"
+      },
+      "name": "Instagram",
+      "order": 10.276385194906855,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
+    },
+    "962a58c7-91ff-4820-99c6-519af6fe6d4f": {
+      "id": "962a58c7-91ff-4820-99c6-519af6fe6d4f",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "870443a1-c39f-42db-a403-2a45dbdf90a5",
+      "components": {},
+      "name": "Icono (1)",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "url",
+          "url": "https://cdn.8thwall.com/web/assets/sprites/8w-icon-m8j35d7y.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "order": 1
+    },
+    "f22fb8d1-c96d-419e-8f43-1b4d6ffa197b": {
+      "id": "f22fb8d1-c96d-419e-8f43-1b4d6ffa197b",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "870443a1-c39f-42db-a403-2a45dbdf90a5",
+      "components": {},
+      "name": "Texto (1)",
+      "ui": {
+        "width": 50,
+        "height": 14,
+        "text": "Instagram",
+        "color": "#ffffff",
+        "fontSize": 10
+      },
+      "order": 2
     }
   },
   "spaces": {
