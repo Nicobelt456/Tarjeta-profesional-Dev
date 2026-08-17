@@ -45,7 +45,7 @@
       "name": "Camera",
       "position": [
         0.4894130146736681,
-        3.3244372148109864,
+        3.933725787526524,
         4.7670671351259974
       ],
       "rotation": [
@@ -310,7 +310,7 @@
       "position": [
         0.5469238662097615,
         3.913156500707342,
-        0
+        1.2617220415743884
       ],
       "rotation": [
         0,
@@ -326,7 +326,12 @@
       "geometry": null,
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "components": {},
+      "components": {
+        "a272b3a5-0260-408f-97eb-1dfc9e7146af": {
+          "id": "a272b3a5-0260-408f-97eb-1dfc9e7146af",
+          "name": "linkedin-button"
+        }
+      },
       "ui": {
         "type": "3d",
         "width": 100,
@@ -338,7 +343,15 @@
         "padding": "10",
         "gap": "6",
         "alignItems": "center",
-        "justifyContent": "center"
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/Linkedln.jpeg"
+        },
+        "backgroundSize": "contain",
+        "paddingTop": 48,
+        "paddingBottom": 48,
+        "ignoreRaycast": false
       },
       "name": "Linkedin",
       "order": 9.557203784048978
@@ -412,9 +425,9 @@
     "1a93ceb6-8274-40fa-b340-d3eed110a9cd": {
       "id": "1a93ceb6-8274-40fa-b340-d3eed110a9cd",
       "position": [
-        1.6843617094231425,
+        1.737388737275642,
         3.9278436995968686,
-        0
+        1.4260498694884296
       ],
       "rotation": [
         0,
@@ -423,14 +436,19 @@
         1
       ],
       "scale": [
-        1,
-        1,
-        1
+        1.1,
+        1.4,
+        1.1
       ],
       "geometry": null,
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "components": {},
+      "components": {
+        "27f71960-16c6-4a99-bd63-b80b6a9cf8ad": {
+          "id": "27f71960-16c6-4a99-bd63-b80b6a9cf8ad",
+          "name": "gmail-button"
+        }
+      },
       "ui": {
         "type": "3d",
         "width": 100,
@@ -442,7 +460,15 @@
         "padding": "10",
         "gap": "6",
         "alignItems": "center",
-        "justifyContent": "center"
+        "justifyContent": "center",
+        "image": {
+          "type": "asset",
+          "asset": "assets/Gmail.jpeg"
+        },
+        "backgroundSize": "contain",
+        "paddingTop": 30,
+        "paddingBottom": 30,
+        "ignoreRaycast": false
       },
       "name": "Gmail",
       "order": 10.885121152953285
@@ -516,9 +542,9 @@
     "870443a1-c39f-42db-a403-2a45dbdf90a5": {
       "id": "870443a1-c39f-42db-a403-2a45dbdf90a5",
       "position": [
-        -0.6230685964124925,
+        -0.6174141060945436,
         3.913156500707342,
-        0
+        1.3067167086516722
       ],
       "rotation": [
         0,
@@ -527,13 +553,18 @@
         1
       ],
       "scale": [
-        1,
-        1,
-        1
+        0.9999999999999999,
+        0.9999999999999999,
+        0.9999999999999999
       ],
       "geometry": null,
       "material": null,
-      "components": {},
+      "components": {
+        "775e0e79-f393-4be4-bffc-b52dfb50a795": {
+          "id": "775e0e79-f393-4be4-bffc-b52dfb50a795",
+          "name": "instagram-button"
+        }
+      },
       "ui": {
         "type": "3d",
         "width": 100,
@@ -546,7 +577,15 @@
         "gap": "6",
         "alignItems": "center",
         "justifyContent": "center",
-        "flexWrap": "nowrap"
+        "flexWrap": "nowrap",
+        "image": {
+          "type": "asset",
+          "asset": "assets/Instagram.jpeg"
+        },
+        "backgroundSize": "contain",
+        "paddingTop": 34,
+        "paddingBottom": 34,
+        "ignoreRaycast": false
       },
       "name": "Instagram",
       "order": 10.276385194906855,
@@ -615,7 +654,8 @@
         "height": 14,
         "text": "Instagram",
         "color": "#ffffff",
-        "fontSize": 10
+        "fontSize": 10,
+        "textAlign": "left"
       },
       "order": 2
     }
